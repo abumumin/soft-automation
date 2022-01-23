@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://23.22.151.143/register",
+    "defaultCommandTimeout" : 30000,
+    "videoUploadOnPasses" : false,
+    "viewportHeight": 900,
+    "viewportWidth" : 1000,
+    "chromeWebSecurity": false
+}
