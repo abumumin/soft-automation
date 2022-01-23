@@ -1,4 +1,4 @@
-QA Assessment Test for the QA Automation Engineer Position at Dukka
+QA Assessment Test for the QA Automation Engineer Position at Softcom
 
 Tools and Framework used
 
@@ -30,8 +30,6 @@ Chrome
 Edge
 Electron (default)
 Firefox
-Script Focus: What Does The Script Do?
-The following activities were carried out on the Script
 
 
 Script Focus: What Does The Script Do?
@@ -39,4 +37,4 @@ The following activities were carried out on the Script
 
 Create Account.
 Login User.
-Run Time Errors"# soft-automation" 
+Run Time Errors while filling the form
